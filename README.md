@@ -1,1 +1,1 @@
-# Newspaper_API
+# TriviaGame
